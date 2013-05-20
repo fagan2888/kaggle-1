@@ -1,6 +1,8 @@
 import scipy as sp
 import math
 
+# TODO use a decorator to check that the length of targets and predictions is equal
+
 ################################
 ### classification functions ###
 ################################
